@@ -1,6 +1,6 @@
-# files
-My Documents
-© 2026 Dat Santa. All Rights Reserved.
-These files are proprietary content for datsanta.com.
-Unauthorized use is prohibited.
-For licensing inquiries: contact@datsanta.com" > README.md
+## License
+
+Copyright (c) 2026 Dat Santa. All Rights Reserved.
+
+This is proprietary software. Unauthorized copying, distribution, 
+modification, or use is strictly prohibited. See LICENSE file for details.
